@@ -1,4 +1,5 @@
 Youtube Playlist Link:
+https://www.youtube.com/watch?v=vxKytvlglV0&list=PL8Svrz0DP_HO8frr4zNroB3puf-LRqfiI&index=2
  
 
 Google Slides Link:
