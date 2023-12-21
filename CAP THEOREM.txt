@@ -1,0 +1,10 @@
+CAP THEOREM:
+https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
+
+https://www.cl.cam.ac.uk/research/dtg/archived/files/publications/public/mk428/cap-critique.pdf
+
+WIKIPEDIA:
+https://en.wikipedia.org/wiki/CAP_theorem
+
+https://www.ibm.com/topics/cap-theorem
+
