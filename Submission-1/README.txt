@@ -6,12 +6,14 @@ Google Slides Link:
 https://docs.google.com/presentation/d/1jrHZPi258Au5coOxlBr-iOyt-uFrfSJLt6lSICB5eyY/edit#slide=id.p
 
 Paper title:
-A middle-ware approach to leverage the distributed data de-duplication capability on HPC and Cloud storage systems
+High Performance Computing in Power System Applications
 
 Link to the paper:
-https://ieeexplore.ieee.org/abstract/document/9377841
+https://www.researchgate.net/publication/221392045_High_Performance_Computing_in_Power_System_Applications
 
 Group: 31
 
 Individual Submission by:
 Nawroze Baizid Mohammed, ID: 20201108
+
+I also correctly uploaded slide.PPT and report.PDF here.
