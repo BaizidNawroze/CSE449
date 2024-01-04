@@ -6,10 +6,10 @@ Google Slides Link:
 https://docs.google.com/presentation/d/17qEeouc30PDpMp-b9723N3noSR-eZelSo2Bs5DDjMFI/edit#slide=id.p
 
 Paper title:
-A middle-ware approach to leverage the distributed data de-duplication capability on HPC and Cloud storage systems
+CRESCO ENEA HPC clusters: a working example of a multifabric GPFS Spectrum Scale layout
 
 Link to the paper:
-https://ieeexplore.ieee.org/abstract/document/9377841
+https://ieeexplore.ieee.org/document/9188135
 
 Group: 31
 
