@@ -15,3 +15,5 @@ Group: 31
 
 Individual Submission by:
 Nawroze Baizid Mohammed, ID: 20201108
+
+I also correctly uploaded slide.PPT and report.PDF here.
